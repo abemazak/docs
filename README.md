@@ -1,8 +1,8 @@
-# Mintlify Starter Kit
+# yanna Starter Kit
 
 Use the starter kit to get your docs deployed and ready to customize.
 
-Click the green **Use this template** button at the top of this repo to copy the Mintlify starter kit. The starter kit contains examples with
+Click the green **Use this template** button at the top of this repo to copy the yanna starter kit. The starter kit contains examples with
 
 - Guide pages
 - Navigation
@@ -14,7 +14,7 @@ Click the green **Use this template** button at the top of this repo to copy the
 
 ## Development
 
-Install the [Mintlify CLI](https://www.npmjs.com/package/mint) to preview your documentation changes locally. To install, use the following command:
+Install the [yanna CLI](https://www.npmjs.com/package/mint) to preview your documentation changes locally. To install, use the following command:
 
 ```
 npm i -g mint
@@ -40,4 +40,4 @@ Install our GitHub app from your [dashboard](https://dashboard.mintlify.com/sett
 - If a page loads as a 404: Make sure you are running in a folder with a valid `docs.json`.
 
 ### Resources
-- [Mintlify documentation](https://mintlify.com/docs)
+- [yanna documentation](https://mintlify.com/docs)

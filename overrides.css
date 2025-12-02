@@ -1,0 +1,12 @@
+a[href*="mintlify.com"] {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+}
+
+/* Specific selector for the footer attribution if generic one is too broad */
+.text-gray-400.text-xs.hover\:text-gray-500 {
+  display: none !important;
+}
+
